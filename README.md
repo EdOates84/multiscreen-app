@@ -1,3 +1,3 @@
 # multiscreen-app
 
-#####This app displays multiple screens using intents
+##### This app displays multiple screens using intents
